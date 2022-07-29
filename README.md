@@ -1,8 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
-<img align="right" width="300" src="unnamed.gif">
-<img align="right" width="200" src="3HeZ.gif">
-
+<img align="right" width="270" src="unnamed.gif">
+<img align="right" width="300" src="3HeZ.gif">
 
 
 <h1 align="center">Hi Amigos, 🙋‍♂️👋, I'm Dante-249</h1>
