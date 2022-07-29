@@ -1,6 +1,4 @@
-<iframe src=" frameBorder="0" class="giphy-embed" allowFullScreen></iframe/2000_600px.gif)>
-
-<img src="https://giphy.com/embed/zXmbOaTpbY6mA.gif" width="480" height="203")" alt="funny animation GIF"> 
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 
 <h1 align="center">Hey! 🙋‍♂️👋, I'm Dante-249</h1>
 <h3 align="center">🅰 🅿🅰🆂🆂🅸🅾🅽🅰🆃🅴 🅳🅴🆅 🅴🅻🅾🅿🅴🆁 🅵🆁🅾🅼 🅸🅽🅳🅸🅰</h3>
