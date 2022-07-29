@@ -2,7 +2,7 @@
 
 <img align="right" width="270" src="unnamed.gif">
 <img align="right" width="300" src="3HeZ.gif">
-<img align="right" width="300" src="1Kte.gif">
+<img align="right" width="300" src="758X.gif">
 
 
 <h1 align="center">Hi Amigos, 🙋‍♂️👋, I'm Dante-249</h1>
