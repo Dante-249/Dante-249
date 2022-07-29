@@ -1,4 +1,4 @@
-[![MasterHead](<iframe src="https://giphy.com/embed/zXmbOaTpbY6mA" width="480" height="203" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/technoir-movie-film-cinemagraph-zXmbOaTpbY6mA">via GIPHY</a></p>/2000_600px.gif)
+<iframe src="https://giphy.com/embed/zXmbOaTpbY6mA" width="480" height="203" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/technoir-movie-film-cinemagraph-zXmbOaTpbY6mA">via GIPHY</a></p>/2000_600px.gif)
 
 <h1 align="center">Hey! 🙋‍♂️👋, I'm Dante-249</h1>
 <h3 align="center">🅰 🅿🅰🆂🆂🅸🅾🅽🅰🆃🅴 🅳🅴🆅 🅴🅻🅾🅿🅴🆁 🅵🆁🅾🅼 🅸🅽🅳🅸🅰</h3>
