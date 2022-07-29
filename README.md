@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hey! 🙋‍♂️👋, I'm Dante-249</h1>
+<h1 align="center">Hi Amigos, 🙋‍♂️👋, I'm Dante-249</h1>
 <h3 align="center">🅰 🅿🅰🆂🆂🅸🅾🅽🅰🆃🅴 🅳🅴🆅 🅴🅻🅾🅿🅴🆁 🅵🆁🅾🅼 🅸🅽🅳🅸🅰</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dante-249&label=Profile%20views&color=0e75b6&style=flat" alt="dante-249" /> </p>
