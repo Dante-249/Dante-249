@@ -1,5 +1,7 @@
 <iframe src="https://giphy.com/embed/zXmbOaTpbY6mA.gif" width="480" height="203" frameBorder="0" class="giphy-embed" allowFullScreen></iframe/2000_600px.gif)>
 
+<img src="https://jorcus.com/animation.gif" alt="funny animation GIF"> 
+
 <h1 align="center">Hey! 🙋‍♂️👋, I'm Dante-249</h1>
 <h3 align="center">🅰 🅿🅰🆂🆂🅸🅾🅽🅰🆃🅴 🅳🅴🆅 🅴🅻🅾🅿🅴🆁 🅵🆁🅾🅼 🅸🅽🅳🅸🅰</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
