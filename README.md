@@ -1,6 +1,6 @@
-<iframe src="https://giphy.com/embed/zXmbOaTpbY6mA.gif" width="480" height="203" frameBorder="0" class="giphy-embed" allowFullScreen></iframe/2000_600px.gif)>
+<iframe src=" frameBorder="0" class="giphy-embed" allowFullScreen></iframe/2000_600px.gif)>
 
-<img src="https://jorcus.com/animation.gif" alt="funny animation GIF"> 
+<img src="https://giphy.com/embed/zXmbOaTpbY6mA.gif" width="480" height="203")" alt="funny animation GIF"> 
 
 <h1 align="center">Hey! 🙋‍♂️👋, I'm Dante-249</h1>
 <h3 align="center">🅰 🅿🅰🆂🆂🅸🅾🅽🅰🆃🅴 🅳🅴🆅 🅴🅻🅾🅿🅴🆁 🅵🆁🅾🅼 🅸🅽🅳🅸🅰</h3>
