@@ -1,4 +1,4 @@
-![MasterHead](banner (2)/2000_600px.png)
+![MasterHead](banner (2).png)
 
 
 
