@@ -50,5 +50,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dante-249&" alt="dante-249" /></p>
 
+[<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:lowlighter?theme=rule34">](https://www.youtube.com/watch?v=PqXPW0oBKgg)
+
 [<img align="right" alt="🦑" src="https://user-images.githubusercontent.com/22963968/159836902-a7553777-f1e2-49ed-90fc-9721322b3f44.png">](#)
 
